@@ -16,3 +16,6 @@ My intergalactic wisdom allows me to communicate in all languages, including the
 
 ## ⚡ Fun Fact
 My interplanetary adventures are my main motivation😄✨ Remember, every day is a new opportunity to make the world bloody! ⚡
+
+## $$$$$$
+I plan to commit code every day next year. If I miss a day, I will raffle off $200
