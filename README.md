@@ -20,4 +20,4 @@ My interplanetary adventures are my main motivation😄✨ Remember, every day i
 ## $$$$$$
 I plan to commit code every day next year. If I miss a day, I will raffle off $200
 ## My progress
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/676d5c5470129741a8597c68?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/676d5c5470129741a8597c68?variant=dark" alt="roadmap.sh"/></a>
